@@ -1,0 +1,14 @@
+{
+  "name": "netflix-api",
+  "version": "1.0.0",
+  "description": "netflix api for pwj",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pwj",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
